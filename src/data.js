@@ -1,7 +1,7 @@
 export const featuredPortfolio = [
   {
     id: 1,
-    title: "Social Media App",
+    title: "Featured Project 1",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
   },
   {
@@ -31,7 +31,7 @@ export const featuredPortfolio = [
   },
 ];
 
-export const webPortfolio = [
+export const fullStackPortfolio = [
   {
     id: 1,
     title: "Web Social Media App",
@@ -64,7 +64,7 @@ export const webPortfolio = [
   },
 ];
 
-export const mobilePortfolio = [
+export const frontEndPortfolio = [
   {
     id: 1,
     title: "Mobile Social Media App",
@@ -97,7 +97,7 @@ export const mobilePortfolio = [
   },
 ];
 
-export const designPortfolio = [
+export const backEndPortfolio = [
   {
     id: 1,
     title: "Design Social Media App",
@@ -130,11 +130,11 @@ export const designPortfolio = [
   },
 ];
 
-export const contentPortfolio = [
+export const gamePortfolio = [
   {
     id: 1,
-    title: "Content Social Media App",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+    title: "Guess Nate's Number",
+    img: "https://natewalchenbach.github.io/guess-nates-number/",
   },
   {
     id: 2,
