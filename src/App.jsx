@@ -1,7 +1,7 @@
 import Intro from "./components/intro/Intro";
 import Portfolio from "./components/portfolio/Portfolio";
 import Topbar from "./components/topbar/Topbar";
-import Work from "./components/work/Work";
+import Works from "./components/works/Works";
 import Contact from "./components/contact/Contact";
 import "./App.scss";
 import { useState } from "react";
@@ -16,7 +16,7 @@ function App() {
       <div className="sections">
         <Intro />
         <Portfolio />
-        <Work />
+        <Works />
         <Contact />
       </div>
     </div>

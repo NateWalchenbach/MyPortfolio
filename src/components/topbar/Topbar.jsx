@@ -5,7 +5,7 @@ export default function Topbar({ setMenuOpen, menuOpen }) {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            nate.
+            NATE W.
           </a>
           <div className="itemContainer">
             <p className="icon">%ICON%</p>
