@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import PortfolioList from "../portfolioList/PortfolioList";
+import PortfolioList from "../portfolioList/portfolioList";
 import "./Portfolio.scss";
 import {
   featuredPortfolio,
