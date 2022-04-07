@@ -21,6 +21,8 @@
       align-items: flex-end;
       justify-content: center;
       float: right;
+      box-shadow: -10px 10px  rgba($color: $oddColor, $alpha: 0.7);
+      
 
       @include mobile {
         align-items: flex-start;
@@ -54,6 +56,7 @@
       h1 {
         font-size: 60px;
         font-weight: bold;
+        color: $oddColor;
 
         @include mobile {
           font-size: 40px;
@@ -61,9 +64,11 @@
       }
       h2 {
         font-size: 35px;
+        color: $oddColor;
       }
       h3 {
         font-size: 30px;
+        color: $oddColor;
 
         @include mobile {
           font-size: 20px;

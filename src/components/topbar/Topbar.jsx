@@ -8,13 +8,17 @@ export default function Topbar({ setMenuOpen, menuOpen }) {
             NATE W.
           </a>
           <div className="itemContainer">
-            <p className="icon">%ICON%</p>
+            <p className="icon"><i class="fa-solid fa-user"></i></p>
             <span>(425) 422-2001</span>
           </div>
           <div className="itemContainer">
-            <p className="icon">%ICON%</p>
+            <p className="icon"><i class="fa-solid fa-envelope"></i></p>
             <span>natewalchenbach24@gmail.com</span>
           </div>
+            <a href="www.google.com" className="itemContainer">
+            <p className="icon"><i class="fa-solid fa-file-code"></i></p>
+            <span>Resume (Click to download)</span>
+            </a>
         </div>
         <div className="right">
           <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
