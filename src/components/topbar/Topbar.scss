@@ -3,8 +3,8 @@
 .topbar {
   width: 100%;
   height: 70px;
-  background-color: white;
-  color: $mainColor;
+  background-color: $backgroundColor;
+  color: $textColor;
   position: fixed;
   top: 0%;
   z-index: 3;
@@ -54,7 +54,7 @@
         span {
           width: 100%;
           height: 3px;
-          background-color: $mainColor;
+          background-color: $textColor;
           transform-origin: left;
           transition: all 2s ease;
         }
@@ -62,7 +62,7 @@
     }
   }
   &.active {
-    background-color: $mainColor;
+    background-color: #7c7c7c;
     color: white;
 
     .hamburger {

@@ -1,33 +1,39 @@
 export const featuredPortfolio = [
   {
     id: 1,
-    title: "Featured Project 1",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+    title: "Text Editor",
+    img: "https://i.ytimg.com/vi/s54M85BU0dA/maxresdefault.jpg",
+    link: "https://github.com/NateWalchenbach/Text-Editor",
   },
   {
     id: 2,
-    title: "Rampa UI Design",
-    img: "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+    title: "Habit Tracker",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Honeycrisp-Apple.jpg/2269px-Honeycrisp-Apple.jpg",
+    link: "https://github.com/chandrapanda/happy-habit-tracker",
   },
   {
     id: 3,
-    title: "E-commerce Web Design",
-    img: "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+    title: "E-commerce Back End",
+    img: "https://www.mamits.com/wp-content/uploads/2018/11/free-ecommerce-development.jpg",
+    link: "https://github.com/NateWalchenbach/E-Commerce-Back-End",
   },
   {
     id: 4,
-    title: "Relax Mobile App",
-    img: "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+    title: "Guess My Number",
+    img: "https://www.funbrain.com/assets/img/content-cards/F2qRmLhRnmebc8jJAUjr_GuessTheNumber%403x.png",
+    link: "https://github.com/NateWalchenbach/guess-nates-number",
   },
   {
     id: 5,
-    title: "Hero Web Design",
-    img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+    title: "Password Generator",
+    img: "https://media.istockphoto.com/photos/computer-security-picture-id155438989?b=1&k=20&m=155438989&s=170667a&w=0&h=oF_Z95ls18j46eBMXnDN4ZjI1WDpTQLfC7Q5jXwMxZI=",
+    link: "https://github.com/NateWalchenbach/password-generator",
   },
   {
     id: 6,
-    title: "Banking App",
-    img: "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+    title: "Day Planner App",
+    img: "https://ak.picdn.net/shutterstock/videos/1019409844/thumb/7.jpg",
+    link: "https://github.com/NateWalchenbach/day-planner",
   },
 ];
 
