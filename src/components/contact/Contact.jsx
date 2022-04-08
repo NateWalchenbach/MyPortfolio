@@ -26,6 +26,19 @@ export default function Contact() {
             </span>
           )}
         </form>
+
+        <div className="footer">
+          <div className="gitHub">
+            <a href="">
+              <i class="fa-brands fa-github fa-4x"></i>
+            </a>
+          </div>
+          <div className="linkedIn">
+            <a href="">
+              <i class="fa-brands fa-linkedin fa-4x"></i>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );

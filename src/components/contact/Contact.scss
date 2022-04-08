@@ -83,3 +83,24 @@
     }
   }
 }
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 150px;
+  margin-top: 2.5rem;
+  color: $textColor;
+
+  .gitHub {
+    a {
+      text-decoration: none;
+      color: $textColor;
+    }
+  }
+  .linkedIn {
+    a {
+      text-decoration: none;
+      color: $textColor;
+    }
+  }
+}
