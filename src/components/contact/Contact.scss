@@ -85,9 +85,9 @@
 }
 .footer {
   display: flex;
-  justify-content: space-between;
+  gap: 1.5rem;
   align-items: center;
-  width: 150px;
+  width: fit-content;
   margin-top: 2.5rem;
   color: $textColor;
 
@@ -98,6 +98,12 @@
     }
   }
   .linkedIn {
+    a {
+      text-decoration: none;
+      color: $textColor;
+    }
+  }
+  .twitter {
     a {
       text-decoration: none;
       color: $textColor;

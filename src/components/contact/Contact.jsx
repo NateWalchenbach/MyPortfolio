@@ -29,13 +29,18 @@ export default function Contact() {
 
         <div className="footer">
           <div className="gitHub">
-            <a href="">
+            <a href="https://github.com/natewalchenbach">
               <i class="fa-brands fa-github fa-4x"></i>
             </a>
           </div>
           <div className="linkedIn">
-            <a href="">
+            <a href="https://www.linkedin.com/in/nate-walchenbach/">
               <i class="fa-brands fa-linkedin fa-4x"></i>
+            </a>
+          </div>
+          <div className="twitter">
+            <a href="https://twitter.com/NateWalchenbach">
+              <i class="fa-brands fa-twitter fa-4x"></i>
             </a>
           </div>
         </div>

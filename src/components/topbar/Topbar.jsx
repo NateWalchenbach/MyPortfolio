@@ -9,13 +9,13 @@ export default function Topbar({ setMenuOpen, menuOpen }) {
           </a>
           <div className="itemContainer">
             <p className="icon">
-              <i class="fa-solid fa-user"></i>
+              <i class="fa-solid fa-user topbarIcon"></i>
             </p>
             <span>(425) 422-2001</span>
           </div>
           <div className="itemContainer">
             <p className="icon">
-              <i class="fa-solid fa-envelope"></i>
+              <i class="fa-solid fa-envelope topbarIcon"></i>
             </p>
             <span>natewalchenbach24@gmail.com</span>
           </div>
@@ -25,7 +25,7 @@ export default function Topbar({ setMenuOpen, menuOpen }) {
             className="itemContainer"
           >
             <p className="icon">
-              <i class="fa-solid fa-file-code"></i>
+              <i class="fa-solid fa-file-code topbarIcon"></i>
             </p>
             <span>Resume (Click to download)</span>
           </a>
