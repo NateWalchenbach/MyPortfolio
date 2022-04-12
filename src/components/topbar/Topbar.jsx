@@ -19,11 +19,7 @@ export default function Topbar({ setMenuOpen, menuOpen }) {
             </p>
             <span>natewalchenbach24@gmail.com</span>
           </div>
-          <a
-            href="../../assets/Resume.pdf"
-            target="_blank"
-            className="itemContainer"
-          >
+          <a href=".../Resume.pdf" target="_blank" className="itemContainer">
             <p className="icon">
               <i class="fa-solid fa-file-code topbarIcon"></i>
             </p>
