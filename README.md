@@ -1,7 +1,4 @@
 # Nate's Portfolio
-[![Project Version][version-image]][version-url]
-[![Frontend][Frontend-image]][Frontend-url]
-[![Backend][Backend-image]][Backend-url]
 
 Dive into Nate's Portfolio.
 
